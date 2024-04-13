@@ -1,0 +1,37 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color:#434455;;
+    background-color: #FFFFFF;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.page-nav .link {
+    color:#2E2F42;
+}
+
+.page-nav .link:hover,
+.page-nav .link:focus {
+    color:#404BBF;
+}
+
+.page-address .link {
+    color:#434455;;
+}
+
+.page-address .link:hover,
+.page-address .link:focus {
+    color:#404BBF;
+}
+
+.page-title {
+    font-size: 56px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.section-title {
+    font-size: 36px;
+    font-weight: 700;
+    color:#2E2F42;
+}
